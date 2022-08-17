@@ -7,3 +7,6 @@
 - 📫 You can to reach me on [Twitter](https://twitter.com/NaikAak) or [LinkedIn](https://www.linkedin.com/in/aakashnaik23/)
 - 💻 My website will contain more info and is currently work in progress.
 
+:bar_chart: My Stats: 
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=naik-aakash&show_icons=true)
