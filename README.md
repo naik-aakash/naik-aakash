@@ -9,4 +9,5 @@
 
 :bar_chart: My Stats: 
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=naik-aakash&show_icons=true)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=naik-aakash&show_icons=true&theme=tokyonight)
+[![GitHub Streak](https://streak-stats.demolab.com?user=naik-aakash&theme=tokyonight&hide_border=true&border_radius=6.5&date_format=M%20j%5B%2C%20Y%5D&mode=weekly)](https://git.io/streak-stats)
