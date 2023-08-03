@@ -9,5 +9,9 @@
 
 :bar_chart: My Stats: 
 
-[![My Awesome Stats](https://awesome-github-stats.azurewebsites.net/user-stats/naik-aakash?cardType=octocat&theme=tokyonight&preferLogin=true&card_width=450)](https://git.io/awesome-stats-card)
-[![GitHub Streak](https://streak-stats.demolab.com?user=naik-aakash&theme=tokyonight&hide_border=true&border_radius=6.5&date_format=M%20j%5B%2C%20Y%5D&mode=weekly&card_width=450)](https://git.io/streak-stats)
+<a href="https://git.io/awesome-stats-card">
+  <img height=200 align="center" src="https://awesome-github-stats.azurewebsites.net/user-stats/naik-aakash?cardType=octocat&theme=tokyonight&preferLogin=true&card_width=450" />
+</a>
+<a href="https://github.com/anuraghazra/convoychat">
+  <img height=200 align="center" src="https://streak-stats.demolab.com?user=naik-aakash&theme=tokyonight&hide_border=true&border_radius=6.5&date_format=M%20j%5B%2C%20Y%5D&mode=weekly&card_width=450" />
+</a>
