@@ -13,5 +13,5 @@
   <img height=200 align="center" src="https://awesome-github-stats.azurewebsites.net/user-stats/naik-aakash?cardType=octocat&theme=tokyonight&preferLogin=true&card_width=320" />
 </a>
 <a href="https://git.io/streak-stats">
-  <img height=200 align="center" src="https://streak-stats.demolab.com?user=naik-aakash&theme=tokyonight&hide_border=true&border_radius=6.5&date_format=M%20j%5B%2C%20Y%5D&mode=weekly&card_width=320" />
+  <img src="https://streak-stats.demolab.com?user=naik-aakash&theme=tokyonight&hide_border=true&border_radius=6.5&exclude_days=Sun%2CSat&card_width=320&card_height=200" alt="GitHub Streak" />
 </a>
