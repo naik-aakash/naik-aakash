@@ -5,7 +5,7 @@
 - 🔭 I currently work on high-throughput simulations focused on bonding analysis to identify new descriptors for materials properties based on bonding indicators by employing machine learning
 - 👯 I’m aspire to gain expertise in material simulations at all scales from atomistic to FEM and in applied machine learning to solve material science problems
 - 📫 You can to reach me on [Twitter](https://twitter.com/NaikAak) or [LinkedIn](https://www.linkedin.com/in/aakashnaik23/)
-- 💻 Here is the link to my [Personal website](https://www.aakashnaik23.de).
+- 💻 Here is the link to my [Personal website](https://aakashnaik.cv/).
 
 :bar_chart: My Stats: 
 
